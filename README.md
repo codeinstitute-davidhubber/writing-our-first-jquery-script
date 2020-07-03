@@ -9,10 +9,12 @@
 ## Course > JQuery Library - Writing Less JavaScrip > Writing our first jQuery script
 
 ***
-#### project url: **'https://codeinstitute-davidhubber.github.io/writing-our-first-jquery-script/'**
+#### project url: 'https://codeinstitute-davidhubber.github.io/writing-our-first-jquery-script/'
 ***
 
 ## jQuery Introduction
+
+### index url - https://codeinstitute-davidhubber.github.io/writing-our-first-jquery-script/table.html
 
 - [Writing our first jQuery script][]
 
